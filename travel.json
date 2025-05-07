@@ -1,0 +1,69 @@
+{
+    "tripName": "Curacao 2025",
+    "traveler": {
+        "name": "Alex Chavez",
+        "contact": {
+            "email": "stlblues36@yahoo.com",
+            "phone": "+1-314-341-3823"
+        }
+    },
+    "destinations": [
+        {
+            "location": "Willemstad",
+            "arrivalDate": "2025-07-08",
+            "departureDate": "2025-07-09",
+            "transportation": {
+                "mode": "Flight",
+                "cost": 475.00
+            },
+            "activities": [
+                {
+                    "title": "Queen Emma Pontoon Bridge",
+                    "time": "09:30 AM"
+                },
+                {
+                    "title": "Fort Amsterdam",
+                    "time": "12:45 PM"
+                }
+            ]
+        },
+        {
+            "location": "Landhuis Chobolobo",
+            "arrivalDate": "2025-07-10",
+            "departureDate": "2025-07-11",
+            "transportation": {
+                "mode": "Ride Bus",
+                "cost": 100.00
+            },
+            "activities": [
+                {
+                    "title": "Grote Knip",
+                    "time": "8:45 AM"
+                },
+                {
+                    "title": "Cas Abao",
+                    "time": "1:30 PM"
+                }
+            ]
+        },
+        {
+            "location": "Hato Caves",
+            "arrivalDate": "2025-07-12",
+            "departureDate": "2025-07-14",
+            "transportation": {
+                "mode": "car",
+                "cost": 125.00
+            },
+            "activities": [
+                {
+                    "title": "Guided Cave Tour",
+                    "time": "10:30 AM"
+                },
+                {
+                    "title": "Indian Trail Walk",
+                    "time": "3:00 PM"
+                }
+            ]
+        }
+    ]
+}
